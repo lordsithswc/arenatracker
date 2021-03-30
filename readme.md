@@ -1,4 +1,4 @@
-# squad tracker
+# arena tracker
 
 ## .env
 Holds environment variables that can be used to in the docker-compose file, e.g. TAG.
