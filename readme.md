@@ -22,7 +22,7 @@ docker-compose up -d
 
 Deploy to docker swarm:
 ```
-docker stack deploy -c <(docker-compose config) squad
+docker stack deploy -c <(docker-compose config) <name>
 ```
 
 ## references
