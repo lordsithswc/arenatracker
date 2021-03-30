@@ -1,4 +1,11 @@
-# arena tracker
+# arena tracker on rpi4 
+
+## Getting started
+
+1. Clone the repo `git clone https://github.com/marx-godfellas/swgoh-arena-tracker-hosting`
+2. Edit the `docker-variables.env` file.
+3. Check the configurations with `docker-compose config`
+4. Run `docker-compose up -d`
 
 ## .env
 Holds environment variables that can be used to in the docker-compose file, e.g. TAG.
