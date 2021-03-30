@@ -2,7 +2,7 @@
 
 ## Getting started
 
-1. Clone the repo `git clone https://github.com/marx-godfellas/swgoh-arena-tracker-hosting`
+1. Clone the repo `git clone https://github.com/marx-godfellas/swgoh-arena-tracker-hosting.git`
 2. Edit the `docker-variables.env` file.
 3. Check the configurations with `docker-compose config`
 4. Run `docker-compose up -d`
