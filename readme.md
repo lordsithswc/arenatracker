@@ -17,7 +17,7 @@ TAG=0.23.0 docker-compose config
 
 This will override anything in the .env file.
 
-## squad.env
+## docker-variables.env
 Holds all the environment variables that should be passed into the container.
 
 ## test/run
