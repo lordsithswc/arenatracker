@@ -7,6 +7,8 @@
 3. Check the configurations with `docker-compose config`
 4. Run `docker-compose up -d`
 
+To follow the logs from the running container you can run `docker-compose logs --follow`.
+
 ## .env
 Holds environment variables that can be used to in the docker-compose file, e.g. TAG.
 
