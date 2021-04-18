@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   squad:
-    image: godfellas/swgoh-arena-tracker-rpi:${TAG}
+    image: iprobedroid/swgoh-arena-tracker::${TAG}
     env_file:
       - docker-variables.env
 
